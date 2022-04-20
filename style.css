@@ -1,0 +1,53 @@
+html,body{
+    height: 100;
+    margin: 0;
+}
+
+body
+{
+    background-image: linear-gradient(to right top, #33f1af,  #11e8d6, #0ef0bf, #0db5ed);
+}
+
+#image
+{
+    width: 70px;
+    height: 80px;
+}
+
+.login_div
+{
+    float: none;
+}
+
+.color_white
+{
+	color: white
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+html,body{
+    height: 100;
+    margin: 0;
+}
+
+body
+{
+    background-image: linear-gradient(to right top, #33f1af,  #11e8d6, #0ef0bf, #0db5ed);
+
+}
+
+
